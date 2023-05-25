@@ -5,3 +5,4 @@
 ### | Python 3.10+
 ### | Windows or Visual Studio Code
 ### | A little bit of skill in Python
+### | Make sure to actually read the Release info!!
